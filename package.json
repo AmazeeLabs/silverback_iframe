@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_iframe",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "license": "GPL-2.0+",
   "publishConfig": {
@@ -15,5 +15,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "19167271221fde02761b354aec7e8bc81da2b973"
+  "gitHead": "74b48ffcc6088a6695792e6ddbca93a5ff4dad29"
 }
